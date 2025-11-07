@@ -1,2 +1,2 @@
 # Binary-Converter
-A simple binary to decimal converter built by Onuh Chigozie Joseph
+A simple binary to decimal converter built by Chigozie
